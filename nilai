@@ -17,6 +17,7 @@ elif nilai > 50:
 else :
  grade = 'E'
 
+
 if niai >60:
     status = 'lulus'
 
