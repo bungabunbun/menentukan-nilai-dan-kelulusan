@@ -18,13 +18,13 @@ elif nilai > 60:
 elif nilai > 50:
 grade = 'D'
 else:
-    grade = 'E'
+grade = 'E'
 
 #Menetukan Status kelulusan Berdasarkan Nilai Akhir
 if nilai > 60:
-    status = 'Lulus'
+status = 'Lulus'
 else:
-    status = 'Tidak Lulus'
+status = 'Tidak Lulus'
 
 #Menampilkan Nilai Akhir, Grade, dan Status Kelulusan
 print('Nilai Akhir: %0.2f' % nilai)
